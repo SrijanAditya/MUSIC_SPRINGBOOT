@@ -1,0 +1,15 @@
+com/music/Configs/NewDb2Config.class
+com/music/Controllers/SongController.class
+com/music/models/Song.class
+com/music/Configs/NewDb1Config.class
+com/music/Controllers/UserController.class
+com/music/models/User.class
+com/music/SpotifyApplication.class
+com/music/Repository/userRepo/UserRepository.class
+com/music/Repository/songRepo/SongRepository.class
+com/music/Controllers/IndexController.class
+com/music/Configs/MultipleMongoConfig.class
+com/music/services/StorageService.class
+com/music/Service/SongService.class
+com/music/models/Role.class
+com/music/Configs/PageConfig.class
